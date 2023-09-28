@@ -1,0 +1,4 @@
+[remote_servers]
+192.168.56.106 ansible_python_interpreter=/usr/bin/python3 pip_package=python3-pip
+192.168.56.105 ansible_python_interpreter=/usr/bin/python3 pip_package=python3-pip java_open_jdk_package=openjdk-11-jdk
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2 
